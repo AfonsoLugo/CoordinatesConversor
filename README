@@ -1,0 +1,11 @@
+### Coordinate Conversor ###
+# version beta #
+
+This repository is a python script to convert single coordinates from one system to decimal degrees, or DG.
+
+# Grades, Minutes, Seconds (GMS) to Decimal Degrees (DG) #
+# GMS to DG #
+To run it successfully, make sure to follow this guide line:
+- Save the input file as "GMS_input.csv", with 3 columns: "latitude", "longitude" and "name". Make sure the columns have exactly these names.
+- Units: grade is ° or º, minute is ' and second is ". Example: -25º48'21.148"S. Don't forget to add S for South or N for North in latitude or W for West or E for East in longitude.
+
